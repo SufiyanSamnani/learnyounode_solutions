@@ -1,2 +1,2 @@
 # learnyounode_solutions
-Solutions to the brilliant LearnYouNode, a series of Node.js workshops.
+Solutions to LearnYouNode, a series of brilliant Node.js workshops.
